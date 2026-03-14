@@ -3,16 +3,18 @@
 Welcome to my data portfolio! Here I document my **journey** and **projects** as Junior Data Analyst.
 
 ## 📚 Table of Contents
-- [SQL Projects](#sql)
-- [Power BI](#power-bi) 
+- [SQL](#sql)
+- [Visualization](#visualization) 
 - [Python](#python)
 
+## SQL
 ## SQL
 | Project | Description | Tools |
 |---------|-------------|-------|
 | 🚗 **[NHTSA Crash Analysis](https://github.com/ronaldricardo/nhtsa-crash-analysis)** | Texas traffic crash analysis. Texas #1 (3,513 crashes), Drunk Driver 25.8%, Urban 57.5%. **13 Advanced SQL queries** (CTE, Window Functions) | PostgreSQL, pgAdmin, Excel |
+| 🛒 **[DEC SQL Practice Class](https://github.com/ronaldricardo/dec-sql-practice-class)** | **3 engines mastery**: PostgreSQL + BigQuery + SQL Server. **20+ queries** (CREATE VIEW, Window Functions, Cross-engine). **3 real datasets** included | **PostgreSQL, BigQuery, SQL Server, DBeaver, SSMS** |
 
-## Power BI
+## Visualization
 | Project | Description | Status |
 |---------|-------------|--------|
 | 📊 **In Progress** | **In Progress** | **In Progress** |
