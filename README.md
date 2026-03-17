@@ -8,7 +8,6 @@ Welcome to my data portfolio! Here I document my **journey** and **projects** as
 - [Python](#python)
 
 ## SQL
-## SQL
 | Project | Description | Tools |
 |---------|-------------|-------|
 | 🚗 **[NHTSA Crash Analysis](https://github.com/ronaldricardo/nhtsa-crash-analysis)** | Texas traffic crash analysis. Texas #1 (3,513 crashes), Drunk Driver 25.8%, Urban 57.5%. **13 Advanced SQL queries** (CTE, Window Functions) | PostgreSQL, pgAdmin, Excel |
@@ -22,7 +21,8 @@ Welcome to my data portfolio! Here I document my **journey** and **projects** as
 ## Python
 | Project | Description | Libraries |
 |---------|-------------|-----------|
-| 🐍 **In Progress** | **In Progress** | **In Progress** |
+| 🐍 **[HSE Data Analytic Portfolio](https://github.com/ronaldricardo/HSE-Data-Analytic-Portfolio)** | **Full ETL pipeline**: Excel → Pandas → 11 charts (Bar, Line, Donut, Pareto, WordCloud). **Safety KPI analysis** (TRIR, SR) | **Pandas, Matplotlib** |
+
 
 ## 👋🏻 Connect
 - 📧 [rricardot7@gmail.com](mailto:rricardot7@gmail.com)
